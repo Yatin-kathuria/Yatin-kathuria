@@ -6,11 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yatinKathuria | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
+[<img align="left" alt="yatinKathuria | Instagram" width="22px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
+[<img align="left" alt="yatinKathuria | LinkidIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkidin]
 
 <br />
 
@@ -33,11 +31,9 @@
 <br />
 
 
-[website]: https://www.youtube.com/c/codersgyan
-[twitter]: https://twitter.com/CoderGyan
-[facebook]: https://www.facebook.com/codersgyan
-[youtube]: https://www.youtube.com/c/codersgyan
-[instagram]: https://www.instagram.com/codersgyan
+[twitter]: https://twitter.com/YATINKATHURIA5
+[instagram]: https://www.instagram.com/realyatinkathuria/
+[linkidin]: https://www.linkedin.com/in/yatin-kathuria-1b1327174/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA
 [jsplaylist]: https://www.youtube.com/watch?v=KlLdNSvmoKI&list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz
 [cssplaylist]: https://www.youtube.com/watch?v=wTyyIGZwJg0&t=2487s
