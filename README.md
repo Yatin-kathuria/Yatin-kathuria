@@ -1,7 +1,7 @@
 ### Hi there, I'm Yatin 👋
 
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
-- 🔭 I’m currently working at Misemind Technologies Pvt. Ltd.
+- 🔭 I’m currently working at Thinkify Labs.
 - 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:
