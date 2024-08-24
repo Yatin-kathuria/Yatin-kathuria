@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatin-kathuria&label=Profile%20views&color=0e75b6&style=flat" alt="yatin-kathuria" /> </p>
 
-- 🔭 I’m currently working in **Netomi as SDE-1 via Thinkify Labs**
-
-- 🌱 I’m currently learning **Vue.js and AWS**
+- 🔭 I’m currently working in **Microsoft as SDE-2**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yatin-kathuria?tab=repositories](https://github.com/Yatin-kathuria?tab=repositories)
 
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, React, Vue, Data Structures an Algorithm**
 
-- 📫 How to reach me **yatinkathuria@gmail.com**
+- 📫 How to reach me **yatinkathuria74@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Yatin-kathuria/Yatin-kathuria/blob/main/Yatin's%20Resume.pdf](https://github.com/Yatin-kathuria/Yatin-kathuria/blob/main/Yatin's%20Resume.pdf)
 
