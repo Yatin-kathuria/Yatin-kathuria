@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatin-kathuria&label=Profile%20views&color=0e75b6&style=flat" alt="yatin-kathuria" /> </p>
 
-- 🔭 I’m currently working in **Microsoft as SDE-2**
+- 🔭 I’m currently working in **Microsoft <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="bootstrap" width="13" height="13"/> as SDE-2** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yatin-kathuria?tab=repositories](https://github.com/Yatin-kathuria?tab=repositories)
 
